@@ -1,7 +1,7 @@
-[What is this for?](#intro?)
-[Setup](#detox-setup)
-[How to run Detox successfully](#detox-success)
-[How to hang Detox](#detox-hang)
+1. [What is this for?](#intro?)
+2. [Setup](#detox-setup)
+3. [How to run Detox successfully](#detox-success)
+4. [How to hang Detox](#detox-hang)
 
 ## What is this for? <div id="intro" />
 To demonstrate that [wix/Detox](https://github.com/wix/Detox) tests hang if we're using [FormidableLabs/victory-native](https://github.com/FormidableLabs/victory-native)
