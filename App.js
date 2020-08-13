@@ -1,5 +1,6 @@
 import React from 'react';
 import {SafeAreaView, StyleSheet, View, TextInput} from 'react-native';
+import Chart from './Chart';
 
 const App: () => React$Node = () => {
   return (
@@ -7,6 +8,7 @@ const App: () => React$Node = () => {
       <SafeAreaView>
         <View style={styles.center}>
           <TextInput testID="text-input" style={styles.textInput} />
+          <Chart />
         </View>
       </SafeAreaView>
     </>
